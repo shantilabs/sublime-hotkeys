@@ -1,4 +1,6 @@
-sublime-hotkeys
-===============
+Eclipse-like hotkeys for Sublime Text.
 
-Eclipse-like hotkeys for sublime
+1. Open Preferences -> Key Bindings - User
+2. Insert sublime-keymap file contents
+3. Save changes
+4. Enjoi!

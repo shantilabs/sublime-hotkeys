@@ -1,0 +1,9 @@
+[
+	{ "keys": ["super+alt+down"], "command": "duplicate_lines" },
+	{ "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["alt+up"], "command": "swap_line_up"},
+	{ "keys": ["alt+down"], "command": "swap_line_down"},
+	{ "keys": ["super+p"], "command": "auto_complete" },
+	{ "keys": ["f3"], "command": "goto_definition" },
+	{ "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} }
+]
